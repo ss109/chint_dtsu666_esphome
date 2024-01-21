@@ -10,3 +10,4 @@ Chint DTSU666是一款三相四线智能电表，具备以下功能特点：
 
 注意：DTSU666系列电表存在多个版本，包括阳光电源（Sungrow）和华为（Huawei）的OEM版本，不同版本间的功能及寄存器地址可能不通用。以下示例是针对正泰版DTSU666的ESPHome配置文件。
 ![dtsu接线图](pic/接线图.jpg)
+![dtsu esphome](pic/esphome_webui.png)
