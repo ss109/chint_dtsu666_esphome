@@ -1,4 +1,4 @@
-# chint_dtsu666_esphome
+# esp8266 chint_dtsu666_esphome
 ## 电表概述
 ![CHINT DTSU666](pic/dtsu666面板.jpg)
 Chint DTSU666是一款三相四线智能电表，具备以下功能特点：
