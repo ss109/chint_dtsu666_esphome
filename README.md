@@ -1,6 +1,6 @@
 # chint_dtsu666_esphome
 ## 电表概述
-![CHINT DTSU666](https://github.com/ss109/chint_dtsu666_esphome/raw/main/20230425132139.png)
+![CHINT DTSU666](pic/dtsu666面板.jpg)
 Chint DTSU666是一款三相四线智能电表，具备以下功能特点：
 
 - **安装方式**：符合DIN35mm标准导轨式安装，配备段码液晶显示；
