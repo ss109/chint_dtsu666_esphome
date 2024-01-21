@@ -11,10 +11,10 @@ logger:
 # Enable Home Assistant API
 api:
   encryption:
-    key: "qnOM0thKrGm6JPiwvjVtjrQH84AESQ3uhWquSil4neU="
+    key: "#########"  #需要替换的字段
 
 ota:
-  password: "6e0db1dee6dfe29dcefc3fc96364a96b"
+  password: "########"  #需要替换的字段
 
 wifi:
   ssid: !secret wifi_ssid
